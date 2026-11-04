@@ -2,7 +2,7 @@
 
 Curso: Herramientas Básicas para el Análisis de Datos Autora: Florencia de la Fuente
 
-Descripción del proyecto
+##Descripción del proyecto
 
 Este proyecto tiene como objetivo analizar un conjunto de datos de ventas de una panadería para identificar patrones de comportamiento, conocer los productos más rentables y evaluar la relación entre las promociones y las unidades vendidas.
 
