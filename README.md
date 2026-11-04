@@ -34,7 +34,8 @@ Coffee registró la mayor ganancia total, con 35.301,44.
 ### Promociones: 
 los registros con promociones presentaron un promedio de 5,38 unidades vendidas, frente a 4,78 sin promociones, lo que representa una diferencia aproximada del 12,6 %.
 
-### Comportamiento semanal: el sábado fue el día con mayor volumen de unidades vendidas, mientras que el lunes registró el menor.
+### Comportamiento semanal: 
+el sábado fue el día con mayor volumen de unidades vendidas, mientras que el lunes registró el menor.
 
 Los resultados muestran patrones interesantes en el comportamiento de las ventas y permiten identificar oportunidades para la toma de decisiones comerciales.
 
